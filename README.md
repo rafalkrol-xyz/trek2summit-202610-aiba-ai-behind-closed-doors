@@ -1,4 +1,4 @@
-# trek2summit-202610-aiba-ai-behind-closed-doors
+# AI Behind Closed Doors: What CxOs Told Us About AI Readiness
 
 ## Overview
 
