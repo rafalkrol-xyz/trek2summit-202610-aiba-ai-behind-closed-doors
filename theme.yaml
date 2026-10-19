@@ -1,0 +1,101 @@
+# "AI Behind Closed Doors" theme for presenterm 0.16.1.
+# White on black, one accent (Trek2Summit blue), dim grey for secondary text.
+#
+# Standalone on purpose: it is presenterm's built-in `dark` theme with these overrides
+# folded in. presenterm 0.16.1 merges `extends:` with the base theme taking precedence,
+# so an `extends: dark` file can't override dark's colors. No font_size anywhere
+# (Ghostty ignores it).
+
+default:
+  margin:
+    percent: 8
+  colors:
+    foreground: "ffffff"
+    background: "000000"
+
+slide_title:
+  alignment: center
+  padding_bottom: 1
+  padding_top: 1
+  bold: true
+  underlined: false
+  separator: false
+  colors:
+    foreground: "ffffff"
+
+headings:
+  h1:
+    bold: true
+    colors:
+      foreground: "ffffff"
+  h2:
+    bold: true
+    colors:
+      foreground: "ffffff"
+  h3:
+    bold: true
+    colors:
+      foreground: "ffffff"
+
+bold:
+  colors:
+    foreground: "ffffff"
+
+code:
+  alignment: center
+  theme_name: base16-eighties.dark
+  background: false
+  padding:
+    horizontal: 0
+    vertical: 0
+
+inline_code:
+  colors:
+    foreground: "ffffff"
+    background: "000000"
+
+block_quote:
+  prefix: "▍ "
+  colors:
+    foreground: "ffffff"
+    prefix: "8c8c8c"
+
+intro_slide:
+  title:
+    alignment: center
+    colors:
+      foreground: "ffffff"
+  subtitle:
+    alignment: center
+    colors:
+      foreground: "0096f5"
+  author:
+    alignment: center
+    colors:
+      foreground: "8c8c8c"
+  footer: false
+
+footer:
+  style: template
+  left: "<span class=\"dim\">AIBA 2026 · Katowice, Ślůnsk</span>"
+  right: "<span class=\"dim\">{current_slide} / {total_slides}</span>"
+  height: 2
+
+modals:
+  selection_colors:
+    foreground: "0096f5"
+
+layout_grid:
+  color: "0096f5"
+
+palette:
+  colors:
+    white: "ffffff"
+    black: "000000"
+    accent: "0096f5"
+    dim: "8c8c8c"
+  classes:
+    acc:
+      foreground: "0096f5"
+    dim:
+      foreground: "8c8c8c"
