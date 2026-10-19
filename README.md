@@ -12,4 +12,13 @@ As an AWS AI Competency holder, Trek2Summit conducted over a dozen AI Assessment
 
 ### Bio
 
-Rafał Król is a former flight attendant, now Head of AWS Technologies at Trek2Summit. With 10+ years of AWS expertise and 14 passed AWS certification exams, he helps SMBs and Enterprises across PL & UK ship production AI on AWS. He's an active AWS Community Builder who builds open-source projects in his spare time. Did we mention he likes AWS?
+Rafał Król is a former flight attendant, now Head of AWS Technologies at Trek2Summit. With 10+ years of AWS expertise and 17 passed AWS certification exams, he helps SMBs and Enterprises across PL & UK ship production AI on AWS. He's an active AWS Community Builder who builds open-source projects in his spare time. Did we mention he likes AWS?
+
+### Usage
+
+```bash
+# Prerequisites:
+# + presenterm: https://github.com/mfontanini/presenterm
+# + Ghostty: https://ghostty.org/
+presenterm --present --config-file presenterm-config.yaml presentation.md
+```
