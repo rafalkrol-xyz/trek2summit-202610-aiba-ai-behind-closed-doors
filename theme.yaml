@@ -99,3 +99,5 @@ palette:
       foreground: "0096f5"
     dim:
       foreground: "8c8c8c"
+    red:
+      foreground: "ff0000"
