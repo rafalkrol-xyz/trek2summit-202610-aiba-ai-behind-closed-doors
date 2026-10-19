@@ -1,0 +1,19 @@
+# presenterm 0.16.1 config for presentation.md.
+# Use it with: presenterm -c presenterm-config.yaml ...
+defaults:
+  # Fail loudly if any slide doesn't fit the terminal, but only in present mode (-p).
+  validate_overflows: when_presenting
+
+speaker_notes:
+  # Publish notes without passing --publish-speaker-notes; listen in a second window with -l.
+  always_publish: true
+
+# No `transition` section on purpose: no slide animations.
+
+export:
+  # PDF/HTML backups use a fixed grid (Ghostty font-size 28 at 1920x1080 is about 110x28).
+  dimensions:
+    columns: 110
+    rows: 28
+  # Every pause becomes its own page, so the backup shows each reveal.
+  pauses: new_slide
