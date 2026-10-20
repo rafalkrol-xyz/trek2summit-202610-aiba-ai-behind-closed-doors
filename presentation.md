@@ -33,7 +33,7 @@ Let's paste all our proprietary knowledge into Chat-GPT
 <!-- pause -->
 -> <span class="red">Samsung bans AI in early 2023</span>
 <!-- pause -->
--> <span class="acc">Samsung lifts the ban and launches a full-scale AI Transformation in June 2026)</span>
+-> <span class="acc">Samsung lifts the ban and launches a full-scale AI Transformation in June 2026</span>
 <!-- end_slide -->
 
 <!-- no_footer -->
@@ -59,5 +59,37 @@ Let's paste all our proprietary knowledge into Chat-GPT
 <span class="dim">AIBA Conference · Katowice, Ślůnsk · 22 Oct 2026</span>
 <!-- end_slide -->
 
+<span class="dim">00 · THE WHO</span>
+
 ![image:width:100%](assets/microsoft_solutions_partner.png)
+<!-- end_slide -->
+
+<span class="dim">01 · THE ASSESSMENT</span>
+
+<!-- jump_to_middle -->
+<!-- alignment: center -->
+
+How we got privy with the CxOs?
+
+<!-- pause -->
+
+<span class="acc">Over a dozen AWS AI Assessments this year (aviation · finance · FMCG · telecom · manufacturing)</span>
+
+<!-- end_slide -->
+
+<span class="dim">01 · THE ASSESSMENT</span>
+
+<!-- jump_to_middle -->
+<!-- alignment: center -->
+
+What's an AWS AI Assessment?
+
+<!-- pause -->
+
++ Structured engagement, usually done within a calendar month
++ Financed by AWS, for eligible customers
++ Delivered by selected Partners based on their audited competencies and experience
+
+<span class="acc">Where AI makes business sense for us, where it doesn't, and how to distinguish one from the other?</span>
+
 <!-- end_slide -->
