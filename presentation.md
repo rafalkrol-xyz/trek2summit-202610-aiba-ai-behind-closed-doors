@@ -61,7 +61,7 @@ Let's paste all our proprietary knowledge into Chat-GPT
 
 <span class="dim">00 · THE WHO</span>
 
-![image:width:100%](assets/microsoft_solutions_partner.png)
+![image:width:100%](images/microsoft_solutions_partner.png)
 <!-- end_slide -->
 
 <span class="dim">01 · THE ASSESSMENT</span>
