@@ -64,6 +64,21 @@ Let's paste all our proprietary knowledge into Chat-GPT
 ![image:width:100%](images/microsoft_solutions_partner.png)
 <!-- end_slide -->
 
+<span class="dim">00 · THE WHO</span>
+
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+![image:width:100%](images/flight_attendant.jpeg)
+<!-- column: 1 -->
+![image:width:100%](images/my_active_certs.jpg)
++ 10+ years working with AWS
++ 10+ AWS exams passed
++ AWS Community Builder
++ DevOpsBoss @ YouTube, Instagram
++ rafalkrol-xyz @ GitHub
+
+<!-- end_slide -->
+
 <span class="dim">01 · THE ASSESSMENT</span>
 
 <!-- jump_to_middle -->
