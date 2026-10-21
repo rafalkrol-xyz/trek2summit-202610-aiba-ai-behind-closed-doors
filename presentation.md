@@ -205,11 +205,12 @@ Interest in AI is ubiquitous
 <span class="acc">What a time to be alive</span>
 <!-- end_slide -->
 
+<span class="dim">05 · THE END</span>
+<!-- alignment: center -->
 <!-- column_layout: [2, 2] -->
-
 <!-- column: 0 -->
 <span class="acc">Ta muchly!</span>
-<!-- new_lines: 2 -->
+<!-- new_lines: 1 -->
 + www.trek2summit.com
 + linkedin.com/company/trek2summit
 + linkedin.com/in/rafal-krol
@@ -220,3 +221,12 @@ Interest in AI is ubiquitous
 
 <!-- column: 1 -->
 ![image:width:100%](./images/coffee_talk.jpeg)
+
+<!-- end_slide -->
+
+<!--no_footer-->
+<!-- alignment: center -->
+<span class="red">QUESTIONS?</span>
+
+![image:width:70%](./images/hi_Pawel.png)
+<span class="dim">Pawel AI hype maxxing since 9:00 AM at our booth</span>
