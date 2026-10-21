@@ -84,9 +84,22 @@ Let's paste all our proprietary knowledge into Chat-GPT
 
 <!-- end_slide -->
 
-<span class="dim">01 · THE ASSESSMENT</span>
+<span class="dim">01 · THE WHAT</span>
+<!-- alignment: center -->
 
-<!-- jump_to_middle -->
+What keeps the C-suite up at night?
+
+<!-- pause -->
+
+<span class="red">1. Indirect Corporate Espionage</span>
+<!-- pause -->
+<span class="red">2. Shadow AI</span>
+<!-- pause -->
+<span class="acc">3. Competitive Obsolescence</span>
+
+<!-- end_slide -->
+
+<span class="dim">02 · THE HOW</span>
 <!-- alignment: center -->
 
 How we got privy with the CxOs?
