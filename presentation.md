@@ -79,7 +79,7 @@ Let's paste all our proprietary knowledge into Chat-GPT
 + 10+ years working with AWS
 + 10+ AWS exams passed
 + AWS Community Builder
-+ DevOpsBoss @ YouTube, Instagram
++ <span class="acc">DevOpsBoss @ YouTube, Instagram<span>
 + rafalkrol-xyz @ GitHub
 
 <!-- end_slide -->
