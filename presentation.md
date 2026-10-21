@@ -103,26 +103,44 @@ What keeps the C-suite up at night?
 <!-- alignment: center -->
 
 How we got privy with the CxOs?
-
 <!-- pause -->
 
-<span class="acc">Over a dozen AWS AI Assessments this year (aviation · finance · FMCG · telecom · manufacturing)</span>
+<span class="acc">Over a dozen AWS AI Assessments this year</span>
 
+<span class="acc">(aviation · finance · FMCG · telecom · manufacturing)</span>
 <!-- end_slide -->
 
-<span class="dim">01 · THE ASSESSMENT</span>
-
-<!-- jump_to_middle -->
+<span class="dim">02 · THE HOW</span>
 <!-- alignment: center -->
 
 What's an AWS AI Assessment?
-
 <!-- pause -->
 
 + Structured engagement, usually done within a calendar month
+<!-- pause -->
 + Financed by AWS, for eligible customers
+<!-- pause -->
 + Delivered by selected Partners based on their audited competencies and experience
+<!-- pause -->
 
-<span class="acc">Where AI makes business sense for us, where it doesn't, and how to distinguish one from the other?</span>
+<span class="acc">Where AI makes business sense for us,</span>
+
+<span class="acc">where it doesn't,</span>
+
+<span class="acc">and how to distinguish one from the other?</span>
+<!-- end_slide -->
+
+<span class="dim">03 · THE WHY</span>
+
+Why would you even need one?
+
+<!-- pause -->
+
+Inventory, filtering, and prioritization of AI initiatives
+
+<!-- pause -->
+
+<span class="acc">A cure for the AI noise.</span>
+<!-- end_slide -->
 
 <!-- end_slide -->
