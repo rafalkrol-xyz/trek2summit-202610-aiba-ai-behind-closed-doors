@@ -88,7 +88,7 @@ Let's paste all our proprietary knowledge into Chat-GPT
 <!-- alignment: center -->
 
 What keeps the C-suite up at night?
-
+<!-- new_lines: 1 -->
 <!-- pause -->
 
 <span class="red">1. Indirect Corporate Espionage</span>
@@ -104,7 +104,7 @@ What keeps the C-suite up at night?
 
 How we got privy with the CxOs?
 <!-- pause -->
-
+<!-- new_lines: 1 -->
 <span class="acc">Over a dozen AWS AI Assessments this year</span>
 
 <span class="acc">(aviation · finance · FMCG · telecom · manufacturing)</span>
@@ -114,6 +114,7 @@ How we got privy with the CxOs?
 <!-- alignment: center -->
 
 What's an AWS AI Assessment?
+<!-- new_lines: 1 -->
 <!-- pause -->
 
 + Structured engagement, usually done within a calendar month
@@ -131,16 +132,38 @@ What's an AWS AI Assessment?
 <!-- end_slide -->
 
 <span class="dim">03 · THE WHY</span>
+<!-- alignment: center -->
 
-Why would you even need one?
-
+Why would you even need one? Part 1
+<!-- new_lines: 1 -->
 <!-- pause -->
 
 Inventory, filtering, and prioritization of AI initiatives
+<!-- pause -->
 
+via use case discovery, pattern matching, readiness scorecard, architecture roadmap
 <!-- pause -->
 
 <span class="acc">A cure for the AI noise.</span>
 <!-- end_slide -->
+
+<span class="dim">03 · THE WHY</span>
+<!-- alignment: center -->
+
+Why would you even need one? Part 2
+<!-- new_lines: 1 -->
+<!-- pause -->
+
+Interest in AI is ubiquitous
+<!-- pause -->
+
+<span class="dim">However, according to McKinsey’s State of AI 2026 report,</span>
+
+<span class="red">only 37% of organizations attribute a positive EBIT impact.</span>
+<!-- pause -->
+
+<span class="acc">Calculate Return on Investment (ROI)</span>
+<!-- end_slide -->
+
 
 <!-- end_slide -->
