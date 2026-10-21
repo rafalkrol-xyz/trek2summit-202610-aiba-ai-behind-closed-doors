@@ -73,8 +73,10 @@ Let's paste all our proprietary knowledge into Chat-GPT
 
 <!-- column_layout: [1, 1] -->
 <!-- column: 0 -->
+How it started
 ![image:width:100%](images/flight_attendant.jpeg)
 <!-- column: 1 -->
+How's it going
 ![image:width:100%](images/my_active_certs.jpg)
 + 10+ years working with AWS
 + 10+ AWS exams passed
@@ -165,5 +167,40 @@ Interest in AI is ubiquitous
 <span class="acc">Calculate Return on Investment (ROI)</span>
 <!-- end_slide -->
 
+<span class="dim">04 · THE REMEDY</span>
+<!-- alignment: center -->
+<span class="red">Swap Indirect Corporate Espionage</span> <span class="acc">for Zero Data Retention</span>
+<!-- pause -->
 
+1. **Amazon Bedrock**: ZDR by default, and operators have no access (ZOA, enforced in hardware)
+2. **Azure Foundry**: flagged prompts can be stored and human-reviewed; opting out needs an Enterprise Agreement and Microsoft's approval
+3. **Anthropic API**: ZDR only with a dedicated agreement; otherwise 30 days
+4. **Gemini Enterprise Agent Platform**: turn off project-level caching, and without an Enterprise Agreement, also opt out of abuse monitoring
+
+<span class="dim">There are exceptions, e.g. Anthropic's _Covered models_ (**Claude Mythos** and **Claude Fable 5**) which require a 30-day data retention</span>
+
+<!-- end_slide -->
+
+<span class="dim">04 · THE REMEDY</span>
+<!-- alignment: center -->
+<span class="red">Swap Shadow AI</span> <span class="acc">for Governed AI</span>
+<!-- pause -->
+
+1. Amazon Quick + Kiro + Bedrock Guardrails + Claude Code with Bedrock
+2. Microsoft Copilot + GitHub Copilot (in VS Code) + Purview DLP (Data Loss Prevention) and Sensitivity Labels + Codex with Azure Foundry
+
+<span class="dim">Avoid consumer and free tiers as these usually train models with your data</span>
+<!-- end_slide -->
+
+<span class="dim">04 · THE REMEDY</span>
+<!-- alignment: center -->
+<span class="red">Swap Competitive Obsolescence</span> <span class="acc">for AI Readiness and Adoption</span>
+<!-- pause -->
+<span class="dim">The future is now, old man</span>
+
+<span class="dim">The only constant in life is change</span>
+
+<span class="dim">Adapt or perish</span>
+<!-- pause -->
+<span class="acc">What a time to be alive</span>
 <!-- end_slide -->
