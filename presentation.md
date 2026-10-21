@@ -204,3 +204,19 @@ Interest in AI is ubiquitous
 <!-- pause -->
 <span class="acc">What a time to be alive</span>
 <!-- end_slide -->
+
+<!-- column_layout: [2, 2] -->
+
+<!-- column: 0 -->
+<span class="acc">Ta muchly!</span>
+<!-- new_lines: 2 -->
++ www.trek2summit.com
++ linkedin.com/company/trek2summit
++ linkedin.com/in/rafal-krol
++ kiro.dev
++ github.com/rafalkrol-xyz/ukyo-clicker
++ youtube.com/@DevOpsBoss
++ instagram.com/devopsboss
+
+<!-- column: 1 -->
+![image:width:100%](./images/coffee_talk.jpeg)
