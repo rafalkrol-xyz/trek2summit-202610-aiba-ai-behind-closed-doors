@@ -66,6 +66,11 @@ Let's paste all our proprietary knowledge into Chat-GPT
 
 <span class="dim">00 · THE WHO</span>
 
+![image:width:100%](images/aws_partner.png)
+<!-- end_slide -->
+
+<span class="dim">00 · THE WHO</span>
+
 <!-- column_layout: [1, 1] -->
 <!-- column: 0 -->
 ![image:width:100%](images/flight_attendant.jpeg)
