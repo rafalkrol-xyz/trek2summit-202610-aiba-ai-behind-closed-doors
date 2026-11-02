@@ -82,7 +82,6 @@ How's it going
 + 10+ AWS exams passed
 + AWS Community Builder
 + <span class="acc">DevOpsBoss @ YouTube, Instagram<span>
-+ rafalkrol-xyz @ GitHub
 
 <!-- end_slide -->
 
@@ -177,7 +176,7 @@ Interest in AI is ubiquitous
 3. **Anthropic API**: ZDR only with a dedicated agreement; otherwise 30 days
 4. **Gemini Enterprise Agent Platform**: turn off project-level caching, and without an Enterprise Agreement, also opt out of abuse monitoring
 
-<span class="dim">There are exceptions, e.g. Anthropic's _Covered models_ (**Claude Mythos** and **Claude Fable 5**) which require a 30-day data retention</span>
+<span class="dim">There are exceptions, e.g. Anthropic's _Covered models_ (**Claude Mythos** and **Claude Fable**) which require a 30-day data retention</span>
 
 <!-- end_slide -->
 
@@ -228,5 +227,5 @@ Interest in AI is ubiquitous
 <!-- alignment: center -->
 <span class="red">QUESTIONS?</span>
 
-![image:width:70%](./images/hi_Pawel.png)
+![image:width:50%](./images/hi_Pawel.png)
 <span class="dim">Pawel AI hype maxxing since 9:00 AM at our booth</span>
